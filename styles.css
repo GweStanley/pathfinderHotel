@@ -1,0 +1,97 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    border-radius: 50%;
+    width: 20%;
+    height: 15%;
+    align-items: center;
+}
+h1{
+font-family: 'Times New Roman', Times, serif;
+color:rgb(10, 49, 87);
+background-color: bisque;
+border-radius: 2%;
+text-align: center;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.5rem;
+}
+
+.carousel-caption p {
+    font-size: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.5rem;
+}
+strong{
+
+    color:darkcyan;
+    background-color: beige;
+    text-decoration: underline;
+    border-radius: 30%;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+#navbarNav {
+    background-color:
+}
+img{
+    border-radius: 10%;
+    height: 10%;
+    width: 20%;
+    padding: 10px;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+h5{ 
+    font-weight: 400;
+    color: rgb(226, 43, 119);
+     text-align: center;
+     padding: 10px;
+}
+p{
+    font-weight: 200;
+    color:blueviolet;
+     text-align: center;
+     padding: 10px;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    color: lavenderblush;
+}
+.card{
+background-color: azure;
+
+}
+
+#log{
+    border-radius: 50%;
+    width: 10%;
+    height: 5%;
+    align-items: center;
+}
+.social-media img {
+    width: 40px;
+    height: 40px;
+}
+h4{
+    color: blue;
+    font-style: italic;
+    }
+   .card-title{
+    text-decoration: underline;
+    font-style: oblique;
+    background-color: blue;
+    color: aliceblue;
+   }
